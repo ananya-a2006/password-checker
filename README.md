@@ -6,5 +6,5 @@ This project checks the strength of a password in real-time and displays whether
 
 ## 📂 working
 
-![password Image](images/p1.png)
+![password Image](images/pi.png)
 
